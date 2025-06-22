@@ -1,11 +1,16 @@
 # 🪶 Indigenous Language Development @ IndicWiki – IIIT Hyderabad
 
+<img src="https://indicwiki.iiit.ac.in/wp-content/uploads/2021/01/New-Project-2.png" alt="LOGO" width="500">
+
 > **Position Title**: Indigenous Language Development Intern  
 > **Organization**: [IndicWiki Project, IIIT Hyderabad](https://indicwiki.iiit.ac.in)  
 > **Location**: Remote  
 > **Internship Duration**: May 12 – June 30, 2025  
 
 ---
+
+<img src="Screenshot 2025-06-23 002819.png" alt="Xtools project showcase" width="500"/>
+
 
 ## About the Project
 
@@ -126,3 +131,4 @@ I extend my heartfelt thanks to:
 ---
 
 >  *“When a language dies, a culture dies with it. Let’s preserve them digitally.”*
+
