@@ -120,6 +120,7 @@ I extend my heartfelt thanks to:
 > **Name**: Bhagwan Jha  
 > **GitHub**: [@Bhagwanjha85](https://github.com/Bhagwanjha85)    
 > **LinkedIn**: [[bhagwan-jha]](https://www.linkedin.com/in/bhagwan-jha/)
+> **Plateforms username**: Baap8969
 
 ---
 
