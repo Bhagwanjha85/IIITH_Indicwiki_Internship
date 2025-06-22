@@ -1,91 +1,104 @@
-# IndicWiki Internship @ IIIT Hyderabad
+# 🪶 Indigenous Language Development @ IndicWiki – IIIT Hyderabad
 
-> **Role**: Wikipedia and Contributor Intern | **Organization**: [IIIT Hyderabad](https://www.iiit.ac.in)  
-> **Program**: [IndicWiki Project](https://indicwiki.iiit.ac.in)  
-> **Duration**: [Mention duration here - e.g., June 2025 to July 2025]
-
----
-
-## 📌 Overview
-
-The **IndicWiki Internship** is a collaborative initiative by **IIIT Hyderabad** that focuses on enriching Indian language content on **Wikipedia and its sister platforms**. As a part of this internship, I actively contributed to content creation, curation, and technical enhancements in the **Hindi** and other Indic language Wikis, making information more accessible to the general public.
+> **Position Title**: Indigenous Language Development Intern  
+> **Organization**: [IndicWiki Project, IIIT Hyderabad](https://indicwiki.iiit.ac.in)  
+> **Location**: Remote  
+> **Internship Duration**: May 12 – June 30, 2025  
+> **Time Commitment**: 15–20 hours/week
 
 ---
 
-## 🧑‍💻 My Role & Contributions
+## 🌍 About the Project
 
-During this internship, I worked on the following:
+The **IndicWiki Project**, hosted by the **International Institute of Information Technology (IIIT), Hyderabad**, is committed to bridging the **digital knowledge gap for indigenous communities in Telangana**.
 
-### 🖋️ Wikipedia Contributions
-- Created and improved **Hindi Wikipedia pages** on cultural heritage, historical figures, local geography, and traditional knowledge.
-- Enriched existing articles with **verified references**, **Wikidata integration**, and **media from Wikimedia Commons**.
+This initiative focuses on enriching free and open-source content in **indigenous and endangered languages**, including:
 
-### 🗂️ Wikidata Integration
-- Linked Wikipedia articles with structured **Wikidata entries**.
-- Updated entity metadata like coordinates, aliases, images, categories, etc.
+🗣️ **Gondi**, **Koya**, **Kolami**, **Naikdi**, **Chenchu**, **Kaikadi (Yerukala)**, **Lambadi**, **Nakkala**, and **Konda Kammara**.
 
-### 📚 Wikisource & Wiktionary
-- Helped digitize public domain Hindi texts.
-- Improved dictionary entries with definitions, grammar, and pronunciations.
+By creating and enhancing digital content across Wikipedia and its sister platforms (like **Wikimedia Commons**, **Wikidata**, **Wiktionary**, **Wikisource**, **Wikiquote**, and **Wikibooks**), the project aims to:
 
-### 🧠 NLP + Wiki Collaboration (Optional if tech-based)
-- Participated in discussion of using NLP to detect bias, improve sentence structures, and auto-suggest templates using bots and scripts.
+- ✅ Preserve **cultural identity** and **oral knowledge** systems.
+- ✅ Promote **linguistic diversity** and digital literacy.
+- ✅ Empower speakers of tribal languages through **inclusive knowledge platforms**.
 
 ---
 
-## 📊 Tech & Tools Used
+## 👨‍💻 My Role: What I Did as an Intern
 
-| Tool/Platform        | Purpose                            |
-|----------------------|-------------------------------------|
-| **Wikipedia (hi.wikipedia.org)** | Article creation & editing         |
-| **Wikidata**         | Structured data linkage             |
-| **Wiktionary (hi.wiktionary.org)** | Lexicographical contribution     |
-| **Wikisource**       | Text transcription & validation     |
-| **Wikitext / Wiki Markup** | Formatting and templating         |
-| **Commons**          | Image curation and attribution      |
-| **Pywikibot (Optional)** | For automating edits (if used)   |
+As an **Indigenous Language Development Intern**, I was responsible for researching, documenting, and contributing to the representation of Telangana’s tribal languages on Wikipedia and Wikimedia’s sister platforms.
 
----
+### 🔹 Key Responsibilities
 
-## 🌟 Key Achievements
-
-- ✅ Created **X+ new articles** on Hindi Wikipedia.
-- ✅ Enhanced **Y+ existing pages** with facts and references.
-- ✅ Contributed to **Z+ Wikidata entries** with accurate metadata.
-- ✅ Helped improve **vernacular access to open knowledge** in regional Indian languages.
+- 📝 **Created and edited Wikipedia pages** related to tribal language families, scripts, dialects, folk stories, and oral history.
+- 🗃️ **Contributed to Wikidata** by linking indigenous concepts and adding structured data (e.g., ISO codes, regions, language families).
+- 📚 **Worked on Wiktionary**, adding tribal words with translations, pronunciations, and usage examples.
+- 🗣️ **Helped digitize oral knowledge** (folklore, songs, traditions) through transcriptions and content formatting.
+- 📷 **Uploaded culturally significant images and media** to Wikimedia Commons with proper categorization and metadata.
 
 ---
 
-## 🧭 Goals Achieved
+## 📦 Tools & Platforms Used
 
-- 📌 Learned the complete workflow of Wikipedia editing.
-- 📌 Gained hands-on experience in collaborative knowledge curation.
-- 📌 Contributed to digital literacy and open knowledge in Indian languages.
-
----
-
-## 🧩 Challenges Faced
-
-- Handling citation formats in different languages.
-- Formatting wikitext templates.
-- Maintaining **neutral point of view (NPOV)** and **verifiability** in all edits.
+| Platform              | Description                                  |
+|-----------------------|----------------------------------------------|
+| **Wikipedia**         | Article creation, formatting, and curation   |
+| **Wikidata**          | Structured data linking and metadata editing |
+| **Wiktionary**        | Tribal vocabulary input and linguistic data  |
+| **Wikimedia Commons** | Uploading and annotating images/media        |
+| **Wikisource**        | Transcription of texts/stories               |
+| **Wikiquote**         | Documenting indigenous proverbs/quotes       |
+| **GitHub**            | For documenting and showcasing contributions |
 
 ---
 
-## 🔭 What's Next?
+## 🚀 My Contributions
 
-- Continue contributing to Hindi Wikipedia as a volunteer.
-- Explore the use of AI/ML for improving Indic-language content.
-- Build tools or bots to help automate repetitive Wiki tasks in Indian languages.
+| Platform         | Contribution Highlights                                           |
+|------------------|-------------------------------------------------------------------|
+| Wikipedia        | Created/updated articles on tribal languages and culture          |
+| Wikidata         | Added identifiers, language codes, alt names, and connections     |
+| Wiktionary       | Entered indigenous words with meaning and grammar                 |
+| Wikimedia Commons| Uploaded relevant cultural images and linguistic diagrams         |
+| Wikisource       | Participated in digitizing and proofreading regional texts        |
 
 ---
 
-## 🤝 Acknowledgements
+## 🏆 Achievements & Impact
 
-Thanks to:
-- **IIIT Hyderabad & the IndicWiki Team** for the opportunity and mentorship.
-- **Wikimedia India** community members for guidance.
-- All the open-source contributors who maintain these platforms.
+- ✅ Enriched **10+ Wikipedia articles** in Gondi, Koya, Kolami, and Lambadi language domains.
+- ✅ Added **100+ tribal language terms** to **Wiktionary** with meanings and categories.
+- ✅ Contributed to **50+ structured entries** on **Wikidata** relevant to indigenous language metadata.
+- ✅ Enhanced visibility of **Telangana’s tribal communities** through cultural uploads to **Commons**.
+- ✅ Participated in knowledge preservation efforts aligned with **UNESCO’s vision** for endangered languages.
+
+---
+
+## 💡 Skills Gained
+
+- 🧠 Understanding of language documentation and digital preservation.
+- 🛠️ Proficiency with Wikitext, Wiki markup, and Wikimedia editing tools.
+- 🌐 Exposure to structured data entry (Wikidata) and lexicography (Wiktionary).
+- 🤝 Collaborating on open-source knowledge platforms for social impact.
+
+---
+
+## 🔮 Future Goals
+
+- 📌 Continue contributing to tribal language projects on Wikimedia.
+- 📌 Develop NLP/AI-based tools for low-resource Indian languages.
+- 📌 Raise awareness about digital inclusion for marginalized language communities.
+- 📌 Build voice or chatbot systems for tribal language education.
+
+---
+
+## 🙏 Acknowledgements
+
+I extend my heartfelt thanks to:
+
+- The **IndicWiki Team at IIIT Hyderabad** for their mentorship and continuous support.
+- The **Wikimedia Foundation** and its global contributors for making open knowledge possible.
+- All tribal communities whose rich languages and heritage I had the privilege to explore.
 
 ---
 
@@ -93,15 +106,19 @@ Thanks to:
 
 > **Name**: Bhagwan Jha  
 > **GitHub**: [@yourusername](https://github.com/yourusername)  
-> **LinkedIn**: [Your LinkedIn Profile]  
-> **Email**: your.email@example.com
+> **Email**: your.email@example.com  
+> **LinkedIn**: [LinkedIn Profile]
 
 ---
 
-## 📸 Gallery / Screenshots (optional)
+## 📸 Screenshots / Examples (Optional)
 
-> You can add before-and-after screenshots of Wikipedia pages, your dashboard stats, Wikidata entries, etc.
+You can add:
+- Before/after screenshots of Wikipedia articles.
+- Sample Wikidata entry.
+- Snippets from your Wiktionary additions.
+- Proofreading screenshots on Wikisource.
 
 ---
 
-> ✨ *“The future belongs to those who contribute to collective knowledge.”* – IndicWiki Vision
+> 🌟 *“When a language dies, a culture dies with it. Let’s preserve them digitally.”*
