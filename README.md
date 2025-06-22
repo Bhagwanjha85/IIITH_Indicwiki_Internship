@@ -74,7 +74,7 @@ As an **Indigenous Language Development Intern**, my responsibilities included:
 
 ## Achievements & Impact
 
-- Created and Contribution **70+ Wikipedia articles** in Hindi,Maithili, English, Telugu and other indegenous language domains.
+- Create and Contribute **70+ Wikipedia articles** in Hindi,Maithili, English, Telugu and other indegenous language domains.
 - Added **500+ tribal language terms** to **Wiktionary** with meanings and categories.
 - Contributed to **500+ structured entries** on **Wikidata** relevant to indigenous language metadata.
 - Enhanced visibility of **Telangana’s tribal communities** through cultural uploads to **Commons**.
