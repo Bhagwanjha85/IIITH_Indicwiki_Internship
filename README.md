@@ -13,7 +13,7 @@ The **IndicWiki Project**, hosted by the **International Institute of Informatio
 
 This initiative focuses on enriching free and open-source content in **indigenous and endangered languages**, including:
 
-🗣️ **Gondi**, **Koya**, **Kolami**, **Naikdi**, **Chenchu**, **Kaikadi (Yerukala)**, **Lambadi**, **Nakkala**, and **Konda Kammara**.
+**Gondi**, **Koya**, **Kolami**, **Naikdi**, **Chenchu**, **Kaikadi (Yerukala)**, **Lambadi**, **Nakkala**, and **Konda Kammara**.
 
 By creating and enhancing digital content across Wikipedia and its sister platforms (like **Wikimedia Commons**, **Wikidata**, **Wiktionary**, **Wikisource**, **Wikiquote**, **Wikivoyage**, **Wikinews**, **Wikiversity**, **metswiki**  **mediawiki**  and **Wikibooks**), the project aims to:
 
@@ -23,31 +23,31 @@ By creating and enhancing digital content across Wikipedia and its sister platfo
 
 ---
 
-## 👨‍💻 My Role & Responsibilities
+## My Role & Responsibilities
 
 As an **Indigenous Language Development Intern**, my responsibilities included:
 
-### 🔹 Wikipedia & Sister Projects
+### Wikipedia & Sister Projects
 - Creating, curating, and editing Wikipedia articles related to tribal languages, cultures, and knowledge systems.
 - Adding linguistic data and structured metadata on **Wikidata**.
 - Documenting and uploading indigenous words and lexicon to **Wiktionary**.
 - Uploading culturally relevant media to **Wikimedia Commons**.
 - Contributing to **Wikiquote** and **Wikisource** with quotes and transcriptions.
 
-### 🔹 NLP & Annotation Tasks
+### NLP & Annotation Tasks
 - Used **NER (Named Entity Recognition)** to extract and classify linguistic elements such as **person names, places, communities, and cultural markers**.
 - Annotated tribal language corpora using **annotation tools** to assist in building structured datasets for NLP models.
 - Created a manually curated dataset for selected indigenous languages to assist future ML/NLP projects.
 - Collaborated on discussions around **low-resource NLP** challenges and the potential for AI support in tribal language preservation.
 
-### 🔹 Git & Documentation
+### Git & Documentation
 - Maintained structured documentation of contributions using **Git**.
 - Version-controlled all scripts, annotations, and article drafts.
 - Contributed to collaborative workflows via GitHub.
 
 ---
 
-## 📦 Tools & Technologies Used
+## Tools & Technologies Used
 
 | Tool / Platform           | Purpose                                           |
 |---------------------------|---------------------------------------------------|
@@ -96,7 +96,7 @@ As an **Indigenous Language Development Intern**, my responsibilities included:
 - Learned best practices for **collaborative, open-source contributions** with a strong social and cultural impact.
 
 
-## 🔮 Future Goals
+## Future Goals
 
 - 📌 Continue contributing to tribal language projects on Wikimedia.
 - 📌 Develop NLP/AI-based tools for low-resource Indian languages.
@@ -105,7 +105,7 @@ As an **Indigenous Language Development Intern**, my responsibilities included:
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 I extend my heartfelt thanks to:
 
@@ -115,23 +115,12 @@ I extend my heartfelt thanks to:
 
 ---
 
-## 📬 Contact
+## Contact
 
 > **Name**: Bhagwan Jha  
-> **GitHub**: [@yourusername](https://github.com/yourusername)  
-> **Email**: your.email@example.com  
-> **LinkedIn**: [LinkedIn Profile]
+> **GitHub**: [@Bhagwanjha85](https://github.com/Bhagwanjha85)    
+> **LinkedIn**: [[bhagwan-jha]](https://www.linkedin.com/in/bhagwan-jha/)
 
 ---
 
-## 📸 Screenshots / Examples (Optional)
-
-You can add:
-- Before/after screenshots of Wikipedia articles.
-- Sample Wikidata entry.
-- Snippets from your Wiktionary additions.
-- Proofreading screenshots on Wikisource.
-
----
-
-> 🌟 *“When a language dies, a culture dies with it. Let’s preserve them digitally.”*
+>  *“When a language dies, a culture dies with it. Let’s preserve them digitally.”*
