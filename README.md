@@ -9,7 +9,7 @@
 
 ---
 
-<img src="Screenshot 2025-06-23 002819.png" alt="Xtools project showcase" width="500"/>
+<img src="Screenshot 2025-08-08 034256.png" alt="Xtools project showcase" width="500"/>
 
 
 ## About the Project
