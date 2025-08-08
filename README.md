@@ -1,6 +1,6 @@
 # 🪶 Indigenous Language Development @ IndicWiki – IIIT Hyderabad
 
-<img src="https://indicwiki.iiit.ac.in/wp-content/uploads/2021/01/New-Project-2.png" alt="LOGO" width="500">
+<img src="https://login.iiit.ac.in/cas/images/iiit-new.png" alt="LOGO" width="500">
 
 > **Position Title**: Indigenous Language Development Intern  
 > **Organization**: [IndicWiki Project, IIIT Hyderabad](https://indicwiki.iiit.ac.in)  
